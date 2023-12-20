@@ -1,0 +1,14 @@
+#container {
+  position: relative;
+  width: 100vw;
+  height: 100vh;
+  border: 1px solid black;
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.block {
+  position: absolute;
+  text-align: center;
+  line-height: 50px;
+}
